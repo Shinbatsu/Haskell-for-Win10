@@ -1,4 +1,4 @@
-# <center>Guide for Instalation Hasekell for Windows 10 x64</center>
+# <center>Hasekell for Windows 10 x64</center>
 
 ## Some Story :hourglass:
 
